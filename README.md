@@ -1,3 +1,4 @@
+Stwórz plik README.md dla projektu TaskFlow.
 Projekt to aplikacja do zarządzania zadaniami (todo) zbudowana w Next.js,
 TypeScript, Tailwind CSS, shadcn/ui. Używa localStorage do persystencji danych.
 Architektura Hexagonal (Ports & Adapters).
@@ -12,3 +13,5 @@ README ma zawierać:
                                       → FakeAdapter (testy)
 - Sekcję "Testy" z info o TDD/BDD podejściu
 - Sekcję "Czego się nauczyłem"
+
+Zapisz plik jako README.md
